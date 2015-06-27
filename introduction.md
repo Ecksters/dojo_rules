@@ -1,1 +1,3 @@
-Here is my introduction, favorite language path is JavaScript
+* Vim
+* C++
+* Moar skills
